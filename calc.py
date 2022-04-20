@@ -13,3 +13,6 @@ def divide(a, b);
 
 def get_Medin(a, b):
     return (a*b)/2
+
+def get_Remainder(a, b):
+    return a//b
