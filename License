@@ -1,2 +1,2 @@
 # 기본 라이센스
-Free
+Free for 1 year
